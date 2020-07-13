@@ -1,4 +1,4 @@
-# Project 1 - *Simple ToDo
+# Project 1 - *Simple ToDo*
 
 **Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This app helped me establish a basic foundation for Git and Version Control Systems, as well as Android Studio app development.
 
 ## License
 
